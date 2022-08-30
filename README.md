@@ -1,0 +1,2 @@
+# PatikaDevSQL
+PatikaDevSQL Ödevleri
